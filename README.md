@@ -33,7 +33,8 @@ I'm also studying Business Informatics at university.
 As a hobby, I love learning languages—currently Chinese and Russian. I’ve even passed the HSK2 exam in Chinese! ⭐
 
 [![chinese flag](assets/cn4.png)](https://www.chinesetest.cn/HSK)
-![russian flag](assets/ru2.png)
+
+<!-- ![russian flag](assets/ru2.png) -->
 
 <!--
 **DanielSzakacs/danielszakacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
