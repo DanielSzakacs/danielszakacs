@@ -13,7 +13,7 @@ Check out my Portfolio 📝, where I share my pet projects in detail!
 
 As a hobby, I love learning languages—currently Chinese and Russian. I’ve even passed the HSK2 exam in Chinese! ⭐
 
-[![chinese flag](assets/cn4.png)](https://www.duolingo.com/profile/bobbyg603)
+[![chinese flag](assets/cn4.png)](https://www.chinesetest.cn/HSK)
 
 ## 👯 I’m looking to collaborate on ...
 
