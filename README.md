@@ -1,6 +1,6 @@
 ## Hi there👋
 
-## 🙋 About me 🍣🍙➡️💻🎓
+## 🙋 About me 🍙
 
 I'm originally from Ukraine and of Hungarian descent. I'm a software developer who started my career as a sushi chef 🍣, working at Nobu London, where I honed my skills in precision, creativity, and adaptability.
 However, in 2017, I boldly decided to transition into the world of software development—a field that had always intrigued me.
