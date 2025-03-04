@@ -1,9 +1,15 @@
-## Hi there👋, my name is Daniel
+## Hi there👋
 
-## About me 
+## 🙋 About me 
 
 ## 🔭 I’m currently working on 
 ## 🌱 I’m currently learning
+I'm diving into Data Engineering and Machine Learning, learning on my own and through online platforms like [DataCamp](https://www.datacamp.com/portfolio/danielszakacsit).
+I'm also studying Business Informatics at university.
+
+Check out my Portfolio 📝, where I share my pet projects in detail!
+
+In my free time, I love learning languages—currently Chinese and Russian. I’ve even passed the HSK2 exam in Chinese! ⭐
 ## 👯 I’m looking to collaborate on ...
 
 <!--
