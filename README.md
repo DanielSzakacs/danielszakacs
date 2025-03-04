@@ -7,6 +7,9 @@ However, in 2017, I boldly decided to transition into the world of software deve
 
 Since 2019, I've been working as a software engineer 💻, and over time, my passion for machine learning has only grown stronger. I love exploring new technologies, solving challenging problems, and continuously pushing my limits.
 
+[![hungarian flag](assets/hu2.png)]
+[![ukrainian flag](assets/ua2.png)]
+
 ## 🚀 I’m currently working on
 
 I’m actively working on expanding my ML/AI skills by building multiple pet projects, which you can check out in my [portfolio]().
@@ -30,6 +33,7 @@ I'm also studying Business Informatics at university.
 As a hobby, I love learning languages—currently Chinese and Russian. I’ve even passed the HSK2 exam in Chinese! ⭐
 
 [![chinese flag](assets/cn4.png)](https://www.chinesetest.cn/HSK)
+[![russian flag](assets/ru2.png)]
 
 ## 👯 I’m looking to collaborate on ...
 
