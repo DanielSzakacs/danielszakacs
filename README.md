@@ -35,8 +35,6 @@ As a hobby, I love learning languages—currently Chinese and Russian. I’ve ev
 [![chinese flag](assets/cn4.png)](https://www.chinesetest.cn/HSK)
 [![russian flag](assets/ru2.png)]
 
-## 👯 I’m looking to collaborate on ...
-
 <!--
 **DanielSzakacs/danielszakacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
