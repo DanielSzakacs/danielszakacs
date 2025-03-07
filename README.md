@@ -7,8 +7,8 @@ However, in 2017, I boldly decided to transition into the world of software deve
 
 Since 2019, I've been working as a software engineer 💻, and over time, my passion for machine learning has only grown stronger. I love exploring new technologies, solving challenging problems, and continuously pushing my limits.
 
-![hungarian flag](assets/hu2.png)
-![ukrainian flag](assets/ua2.png)
+<!-- ![hungarian flag](assets/hu2.png)
+![ukrainian flag](assets/ua2.png)-->
 
 ## 🚀 I’m currently working on
 
