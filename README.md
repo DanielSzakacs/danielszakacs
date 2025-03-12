@@ -38,7 +38,7 @@ As a hobby, I love learning languages—currently Chinese and Russian. I’ve ev
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielszakacs&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="danielszakacs" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielszakacs&&theme=tokyonight" alt="danielszakacs" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielszakacs&&theme=tokyonight" alt="danielszakacs" /></p>-->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielszakacs&show_icons=true&locale=en&theme=tokyonight" alt="danielszakacs" /></p> -->
 
