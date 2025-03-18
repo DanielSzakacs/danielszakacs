@@ -20,7 +20,7 @@ Beyond ML, I’ve always enjoyed working on side projects, especially Chrome ext
 
 - [Tab Saver - Bookmark](https://chromewebstore.google.com/detail/tab-saver-bookmark/akoelkdffpbphokikhegnneomleldhfo?authuser=0&hl=hu) – A simple yet effective tool I built to solve my problem of managing too many open tabs.
 - [Salah - Prayer Reminder](https://chromewebstore.google.com/detail/salah-prayer-reminder/eglgbgmahngnflijjdhghhdbflgdceif?authuser=0&hl=hu) – Initially a hobby project, but it turned out to be quite successful, now with **600+ downloads**!
-  Seeing its growing user base, I’ve decided to rebuild it properly—introducing **[Salah_v2](https://github.com/DanielSzakacs/Salah-PRv2)**, a more refined and feature-rich version of the original extension. This remains a passion project, but I’m excited to give it the polish it deserves!
+
 
 [![tab_saver](assets/tab3.png)](https://chromewebstore.google.com/detail/tab-saver-bookmark/akoelkdffpbphokikhegnneomleldhfo?authuser=0&hl=hu)
 [![salah](assets/salah3.png)](https://chromewebstore.google.com/detail/salah-prayer-reminder/eglgbgmahngnflijjdhghhdbflgdceif?authuser=0&hl=hu)
