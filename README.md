@@ -25,7 +25,7 @@ Beyond ML, I’ve always enjoyed working on side projects, especially Chrome ext
 [![tab_saver](assets/tab3.png)](https://chromewebstore.google.com/detail/tab-saver-bookmark/akoelkdffpbphokikhegnneomleldhfo?authuser=0&hl=hu)
 [![salah](assets/salah3.png)](https://chromewebstore.google.com/detail/salah-prayer-reminder/eglgbgmahngnflijjdhghhdbflgdceif?authuser=0&hl=hu)
 
-## 🌱 I’m currently learning
+## 📒 I’m currently learning
 
 I'm diving into Data Engineering and Machine Learning, learning on my own and through online platforms like [DataCamp](https://www.datacamp.com/portfolio/danielszakacsit).
 I'm also studying Business Informatics at university.
@@ -33,6 +33,7 @@ I'm also studying Business Informatics at university.
 As a hobby, I love learning languages—currently Chinese and Russian. I’ve even passed the [HSK2](https://www.chinesetest.cn/HSK) exam in Chinese! ⭐
 
 [![chinese flag](assets/cn4.png)](https://www.chinesetest.cn/HSK)
+<!-- [![russian flag](assets/ru2.png)](https://www.duolingo.com/profile/DanielSoka1) -->
 
 ## 📈 GitHub Stats 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielszakacs&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="danielszakacs" /></p>
