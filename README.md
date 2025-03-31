@@ -35,8 +35,8 @@ As a hobby, I love learning languages—currently Chinese and Russian. I’ve ev
 [![chinese flag](assets/cn4.png)](https://www.chinesetest.cn/HSK)
 <!-- [![russian flag](assets/ru2.png)](https://www.duolingo.com/profile/DanielSoka1) -->
 
-## 📈 GitHub Stats 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielszakacs&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="danielszakacs" /></p>
+<!--## 📈 GitHub Stats 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielszakacs&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="danielszakacs" /></p>-->
 
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielszakacs&&theme=tokyonight" alt="danielszakacs" /></p>-->
