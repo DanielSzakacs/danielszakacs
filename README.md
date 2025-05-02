@@ -32,7 +32,7 @@ I'm also studying Business Informatics at university.
 
 As a hobby, I love learning languages—currently Chinese and Russian. I’ve even passed the [HSK2](https://www.chinesetest.cn/HSK) exam in Chinese! ⭐
 
-[![chinese flag](assets/cn4.png)](https://www.chinesetest.cn/HSK)
+<!-- [![chinese flag](assets/cn4.png)](https://www.chinesetest.cn/HSK) -->
 <!-- [![russian flag](assets/ru2.png)](https://www.duolingo.com/profile/DanielSoka1) -->
 
 <!--## 📈 GitHub Stats 
