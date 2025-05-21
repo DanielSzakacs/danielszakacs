@@ -30,7 +30,8 @@ Beyond ML, I’ve always enjoyed working on side projects, especially Chrome ext
 I'm diving into Data Engineering and Machine Learning, learning on my own and through online platforms like [DataCamp](https://www.datacamp.com/portfolio/danielszakacsit).
 I'm also studying Business Informatics at university.
 
-As a hobby, I love learning languages—currently German and Russian. I’ve even passed the [HSK2](https://www.chinesetest.cn/HSK) exam in Chinese! ⭐
+As a hobby, I love learning languages—currently German and Russian. 
+<!-- I’ve even passed the [HSK2](https://www.chinesetest.cn/HSK) exam in Chinese! ⭐ -->
 
 <!-- [![chinese flag](assets/cn4.png)](https://www.chinesetest.cn/HSK) -->
 <!-- Icons are from here: https://www.freepik.com/search?format=search&iconType=standard&last_filter=query&last_value=russia&query=russia&type=icon -->
