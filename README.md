@@ -25,10 +25,10 @@ Beyond ML, I’ve always enjoyed working on side projects, especially Chrome ext
 [![tab_saver](assets/tab3.png)](https://chromewebstore.google.com/detail/tab-saver-bookmark/akoelkdffpbphokikhegnneomleldhfo?authuser=0&hl=hu)
 [![salah](assets/salah3.png)](https://chromewebstore.google.com/detail/salah-prayer-reminder/eglgbgmahngnflijjdhghhdbflgdceif?authuser=0&hl=hu)
 
-<!--## 🌱 I’m currently learning-->
+## 🌱 I’m currently learning
 
-<!--I'm diving into Data Engineering and Machine Learning, learning on my own and through online platforms like [DataCamp](https://www.datacamp.com/portfolio/danielszakacsit).
-I'm also studying Business Informatics at university.-->
+I'm diving into Data Engineering and Machine Learning, learning on my own and through online platforms like [DataCamp](https://www.datacamp.com/portfolio/danielszakacsit).
+I'm also studying Business Informatics at university.
 
 <!--As a hobby, I love learning languages—currently German and Russian. -->
 <!-- I’ve even passed the [HSK2](https://www.chinesetest.cn/HSK) exam in Chinese! ⭐ -->
