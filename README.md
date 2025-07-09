@@ -30,7 +30,7 @@ Beyond ML, I’ve always enjoyed working on side projects, especially Chrome ext
 I'm diving into Data Engineering and Machine Learning, learning on my own and through online platforms like [DataCamp](https://www.datacamp.com/portfolio/danielszakacsit).
 I'm also studying Business Informatics at university.
 
-## ♟️ Hobby 
+<!--## ♟️ Hobby 
 In my free time, I enjoy playing chess as a hobby.
 Feel free to challenge me on [Chess.com!](https://www.chess.com/member/daniel_szh)
 
