@@ -12,7 +12,7 @@ Since 2019, I've been working as a software engineer 💻, and over time, my pas
 
 ## 🚀 I’m currently working on
 
-I’m actively working on expanding my ML/AI skills by building multiple pet projects. <!-- , which you can check out in my [portfolio](). -->
+I’m actively working on expanding my ML/AI skills by building multiple pet projects, which you can check out in my [portfolio](https://danielszakacs.github.io/my_portfolio/).
 
 My goal is to deepen my understanding of data science, deep learning, and model deployment through hands-on experimentation and real-world problem-solving.
 
