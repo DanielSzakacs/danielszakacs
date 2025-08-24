@@ -19,7 +19,7 @@ My goal is to deepen my understanding of data science, deep learning, and model 
 Beyond ML, I’ve always enjoyed working on side projects, especially Chrome extensions. In the past, I created:
 
 - [Tab Saver - Bookmark](https://chromewebstore.google.com/detail/tab-saver-bookmark/akoelkdffpbphokikhegnneomleldhfo?authuser=0&hl=hu) – A simple yet effective tool I built to solve my problem of managing too many open tabs.
-- [Salah - Prayer Reminder](https://chromewebstore.google.com/detail/salah-prayer-reminder/eglgbgmahngnflijjdhghhdbflgdceif?authuser=0&hl=hu) – Initially a hobby project, currently with **750+ downloads**!
+- [Salah - Prayer Reminder](https://chromewebstore.google.com/detail/salah-prayer-reminder/eglgbgmahngnflijjdhghhdbflgdceif?authuser=0&hl=hu) – Initially a hobby project, currently with **800+ downloads**!
 
 <!--
 [![tab_saver](assets/tab3.png)](https://chromewebstore.google.com/detail/tab-saver-bookmark/akoelkdffpbphokikhegnneomleldhfo?authuser=0&hl=hu)
